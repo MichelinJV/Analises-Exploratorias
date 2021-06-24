@@ -1,3 +1,5 @@
+# Projetos de Análise Exploratória dos Dados
+
 Os projetos de Análise Exploratória de Dados (AED) tem como finalidade examinar os dados previamente à aplicação de qualquer técnica estatística. 
 Desta forma conseguemos um entendimento básico dos dados e das relações existentes entre as variáveis analisadas.
 
