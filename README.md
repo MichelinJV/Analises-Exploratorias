@@ -1,4 +1,4 @@
-<img src="banner.jpg"/>
+<img src="banner1.jpg"/>
 
 # Projetos de Análise Exploratória dos Dados
 
