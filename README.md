@@ -2,15 +2,14 @@
 
 # Projetos de Análise Exploratória dos Dados
 
-Os projetos de Análise Exploratória de Dados (AED) tem como finalidade examinar os dados previamente à aplicação de qualquer técnica estatística. 
-Desta forma conseguemos um entendimento básico dos dados e das relações existentes entre as variáveis analisadas.
+Os projetos de Análise Exploratória de Dados (Exploratory Data Analysis - EDA) tem como finalidade examinar os dados previamente à aplicação de qualquer técnica estatística. Desta forma conseguimos um entendimento básico dos dados e das relações existentes entre as variáveis analisadas.
 
-AED é uma abordagem à análise de conjuntos de dados de modo a resumir suas características principais, frequentemente com métodos visuais.
+EDA é uma abordagem à análise de conjuntos de dados de modo a resumir suas características principais, frequentemente com métodos visuais.
 
 Os projetos são:
 
 * Análise dos aplicativos da loja virtual GooglePlayStory. 
-Nesse trabalho encontramos quais app são mais populares, definindo os tipos, gêneros e tamanhos de app que possam ser criados e que serão sucesso.
+Nesse trabalho encontramos quais apps são mais populares, definindo os tipos, gêneros e tamanhos de apps que possam ser criados e que serão sucesso.
 
 * Análise dos crimes de roubo e furto nos estados de São Paulo e Rio de Janeiro durante o ano de 2013.
 O trabalho expõe quais cidades, horários, vítimas, épocas do ano e tipos de ocorrências foram mais frequentes.
