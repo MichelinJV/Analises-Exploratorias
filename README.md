@@ -6,7 +6,7 @@ Os projetos de Análise Exploratória de Dados (Exploratory Data Analysis - EDA)
 
 EDA é uma abordagem à análise de conjuntos de dados de modo a resumir suas características principais, frequentemente com métodos visuais.
 
-Os projetos são:
+Os projetos postados aqui são:
 
 * <a href="https://github.com/MichelinJV/Analises-Exploratorias/blob/master/googleplay.ipynb" >googleplay: </a> Análise dos aplicativos da loja virtual GooglePlayStory. 
 Nesse trabalho encontramos quais apps são mais populares, definindo os tipos, gêneros e tamanhos de apps que possam ser criados e que serão sucesso.
