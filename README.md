@@ -17,4 +17,4 @@ O trabalho expõe quais cidades, horários, vítimas, épocas do ano e tipos de 
 
 * <a href="https://github.com/MichelinJV/Analises-Exploratorias/blob/master/delivery.ipynb">delivery: </a>
 Análise da resposta dos clientes do aplicativo de delivery IFood sobre campanhas de ofertas. 
-Exploramos quais são perfis dos clientes, quais produtos são mais consumidos e chegamos a uma conlusão de qual período do ano é mais favorável para realizar campanhas de ofertas com maior receptibilidade dos clientes.
+Exploramos quais são perfis dos clientes, quais produtos são mais consumidos e chegamos a uma conclusão de qual período do ano é mais favorável para realizar campanhas de ofertas com maior receptibilidade dos clientes.
